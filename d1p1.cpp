@@ -9,7 +9,7 @@
 int main() {
 	int first, second;
 	long abs_diff_sum;
-	std::ifstream input("d1p1-input.txt");
+	std::ifstream input("d1-input.txt");
 	std::pair<int, int> entry;
 	std::string line;
 	std::vector<int> first_list;
